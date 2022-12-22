@@ -1,6 +1,6 @@
 # Tip-Time
 
-Welcome to Project: Tip TIme!
+Welcome to the project: Tip TIme!
 
 Project developed during the Android Basics in Kotlin course.
 
